@@ -1,0 +1,58 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Jessica Younker"
+    },
+    {
+      "id": 2,
+      "name": "Jordan Nelson"
+    },
+    {
+      "id": 3,
+      "name": "Zoe LeBlanc"
+    }
+  ],
+  "types": [
+    {
+      "id": 1,
+      "type": "Chocolate"
+    },
+    {
+      "id": 2,
+      "type": "Sour"
+    },
+    {
+      "id": 3,
+      "type": "Peanut Butter"
+    },
+    {
+      "id": 4,
+      "type": "Chewy"
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Nashville North",
+      "address": "500 Circle Way"
+    },
+    {
+      "id": 2,
+      "name": "Nashville South",
+      "address": "10101 Binary Court"
+    }
+  ],
+  "candies": [
+    {
+      "id": 2,
+      "name": "Resses Cups",
+      "typeId": 3
+    },
+    {
+      "id": 3,
+      "name": "Haribo Sour bears",
+      "typeId": 2
+    }
+  ]
+}
